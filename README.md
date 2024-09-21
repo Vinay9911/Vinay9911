@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/59453698/178947079-df3cd391-b419-4258-a542-b9a7e47e4351.gif)]  
+![yy](https://github.com/user-attachments/assets/c5836719-0f02-4de3-a027-f8f2d625a555)
 <h1 align="center">Hi 👋, I'm Vinay Aggarwal</h1>  
 <h3 align="center">Third-year student passionate about AI, Machine Learning, and Chatbot Development</h3>  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">  
