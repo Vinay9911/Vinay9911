@@ -65,7 +65,5 @@
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>  
 </p>
 
- 
 
-<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay9911&show_icons=true&locale=en&layout=compact" alt="vinay9911" /></p>  
