@@ -9,7 +9,7 @@
 - 🌱 I’m learning **LLM Fine-tuning, Image Feature Extraction, and Advanced NLP Techniques**  
 - 💬 Ask me about **AI-Powered Solutions, Chatbot Development, and Machine Learning**  
 - 👯 I’m looking to collaborate on GenAI projects  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://vinay-aggarwal.netlify.app/)  
+- 👨‍💻 All of my latest projects are available at [My Portfolio](https://vinay-aggarwal.netlify.app/)  
 - 🧠 I have knowledge in **RAG, NLP, Python, ML, AI, Supabase**  
 - ⚡ Fun fact: **AI & Machine Learning aren’t just the future—they’re the present!**
 
@@ -23,7 +23,9 @@
 <p align="left">  
 <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>  
+<img src="https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white" alt="ChatBot" />
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /> 
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>  
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>  
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>  
@@ -51,7 +53,7 @@
 <img src="https://a11ybadges.com/badge?logo=streamlit" alt="Streamlit" />
 </p>  
 
-<h3 align="left">🖥️ ML/DL:</h3>  
+<h3 align="left">🖥️ ML/DS:</h3>  
 <p align="left">  
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>  
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>  
@@ -65,5 +67,5 @@
 
  
 
-
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay9911&show_icons=true&locale=en&layout=compact" alt="vinay9911" /></p>  
